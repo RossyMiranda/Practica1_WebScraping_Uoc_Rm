@@ -6,7 +6,8 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ci
 Rosa María Miranda Castro
 
 ## Descripción de Ficheros
-src/RankingEmpresasCompanias(WebScraping).ipynb notebook que contiene el código que permite descargar el ranking de las compañias por Provincia del Ecuador
+src/RankingEmpresasCompanias(WebScraping).ipynb: Es el notebook que contiene el código Phyton que permite descargar el ranking de las compañias por Provincia del Ecuador
+Práctica1_rmirandac.pdf: Contiene lo solicitado en la práctica con respecto a las preguntas.
 
 ## DOI
 10.5281/zenodo.4679917
