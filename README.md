@@ -8,5 +8,11 @@ Rosa María Miranda Castro
 ## Descripción de Ficheros
 src/RankingEmpresasCompanias(WebScraping).ipynb notebook que contiene el código que permite descargar el ranking de las compañias por Provincia del Ecuador
 
+## DOI
+10.5281/zenodo.4679917
+https://zenodo.org/search?page=1&size=20&q=4679917
+
+
+
 
 
